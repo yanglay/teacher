@@ -1,0 +1,18 @@
+table  {
+  margin: 5px;
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  font: 18pt;
+  font-weight: bold;
+  background-color: rgb(242, 252, 99);
+}
+
+body {
+  font: 14pt Arial;
+}
+
+
+
